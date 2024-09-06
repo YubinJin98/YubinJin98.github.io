@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yubin Jin
+Biography
 ======
 Yubin Jin is currently a PhD student in the [IMCL Group](https://www4.comp.polyu.edu.hk/~labimcl/index.html) @ [The Hong Kong PolyTechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
 

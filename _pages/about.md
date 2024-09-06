@@ -13,9 +13,9 @@ Yubin Jin is currently a PhD student in the [IMCL Group](https://www4.comp.polyu
 
 Education
 ======
-Ph.D student in The Hong Kong Polytechnic University
-Ph.D student in Eastern Institute of Technology, Ningbo (EIT, Tentative)
-M.Eng. from Southern University of Science and Technology, 2024
+Ph.D student in The Hong Kong Polytechnic University  
+Ph.D student in Eastern Institute of Technology, Ningbo (EIT, Tentative)  
+M.Eng. from Southern University of Science and Technology, 2024  
 B.Sc. from Nanjing University of Information Science and Technology, 2021
 
 Publications
